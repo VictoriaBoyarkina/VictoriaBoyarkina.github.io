@@ -22,7 +22,6 @@ h2 {
 }
 
 section {
-	display: inline;
 	margin: 50px 0 50px 0;
 	padding: 0 50px 0 50px;
 }
@@ -35,6 +34,7 @@ section h2 {
 }
 
 li {
+	display: inline;
 	margin-bottom: 10px;
 }
 
