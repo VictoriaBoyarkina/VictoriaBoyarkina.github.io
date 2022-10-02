@@ -34,11 +34,14 @@ section h2 {
 }
 
 li {
-	display: inline;
 	margin-bottom: 10px;
 }
 
 main {
 	width: 900px;
 	margin: auto;
+}
+
+ul {
+	display: inline;
 }
